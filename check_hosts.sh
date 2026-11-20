@@ -27,3 +27,4 @@ cat /etc/hosts | while read ip nume rest; do
         echo "Bogus IP for $nume in /etc/hosts!"
     fi
 done
+echo "Script modificat de Crina"
